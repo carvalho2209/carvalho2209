@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandre Carvalho! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=carvalho2209&color=blue)</div>
 
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/milan-jovanovic)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/alex-carvalho-b6604285/)
 
 ## **I'm a Software Architect and passionate about C#.**
 
